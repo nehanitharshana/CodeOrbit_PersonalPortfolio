@@ -1,3 +1,1 @@
-function showMessage() {
-    alert("Hello! Thank you for visiting my portfolio 😊");
-}
+console.log("Welcome to Neha's Portfolio! ✨💗");
